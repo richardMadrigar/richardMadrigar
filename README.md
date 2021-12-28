@@ -21,6 +21,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blueviolet?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat&logo=git)&nbsp;
 
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="right">
  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
