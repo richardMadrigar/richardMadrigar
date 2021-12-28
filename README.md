@@ -1,38 +1,11 @@
-### Hi there 👋
 
-<!--
-**richardMadrigar/richardMadrigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
-<!--
-- 🌱 Estou atualmente me aprofundando em front-end e back-end.
--->
 <img align="right" height="525em" width="450em" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Coutinho</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Madrigar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet" alt="Profile views" /> </p>
 
 - ❤️ Web developer passionate about what he does
 
-- 🔭 I’m currently searching for oportunity to show what i can do
-
 - 👨‍💻 All of my projects are available at here
-
-- 💬 Ask me about **Anything**
-
-- ⚡ I'm a league of legends player 😂
 
 <br>
 
