@@ -20,22 +20,13 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Stats
+## ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
+<p align="left">
  <img height="120em" width="530em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="120em" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMadrigar&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-
-## #️⃣ &nbsp;Social
- 
-<p align="left" style="background:yellow">
-  <a href="mailto:iambrunocout@gmail.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-iambrunocout-blueviolet?style=flat&logo=gmail" alt="gmail">
-  </a>
-  <a href="https://linkedin.com/in/brunocout" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-brunocout-blueviolet?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
 </p>
+
+
+
 
