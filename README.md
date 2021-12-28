@@ -1,7 +1,7 @@
 
-<img align="right" height="525em" width="450em" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Madrigar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet" alt="Profile views" /> </p>
+
+<h1 >Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Madrigar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardMadrigar&color=blueviolet" alt="Profile views" /> </p>
 
 - ❤️ Web developer passionate about what he does
 
@@ -23,7 +23,6 @@
 ## ⚙️ &nbsp;GitHub Stats
 
 <div align="left">
-
  <img height="120em" width="530em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="120em" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMadrigar&layout=compact&langs_count=7&theme=radical"/>
 </div>
