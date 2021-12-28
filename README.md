@@ -9,6 +9,17 @@
 
 <br>
 
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+ <img width="450em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMadrigar&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+
+<br>
+
 ## 🛠 &nbsp;Stacks
 
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=flat&logo=HTML5)&nbsp;
@@ -20,12 +31,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blueviolet?style=flat&logo=postgresql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blueviolet?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=flat&logo=git)&nbsp;
-
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
- <img width="450em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMadrigar&layout=compact&langs_count=7&theme=radical"/>
-</p>
