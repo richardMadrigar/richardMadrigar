@@ -1,5 +1,3 @@
-
-
 <h1 >Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Madrigar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardMadrigar&color=blueviolet" alt="Profile views" /> </p>
 
@@ -10,13 +8,13 @@
 <br>
 
 ## 🛠 &nbsp;Stacks
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-blueviolet?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-blueviolet?style=flat&logo=next.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-blueviolet?style=flat&logo=typescript)&nbsp;
 
 <br>
 
@@ -26,7 +24,3 @@
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMadrigar&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
-
-
-
