@@ -25,7 +25,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="right">
  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=richardMadrigar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMadrigar&layout=compact&langs_count=7&theme=radical"/>
 </p>
