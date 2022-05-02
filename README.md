@@ -3,7 +3,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardMadrigar&color=blueviolet" alt="Profile views" /> </p>
 
 
-- ❤️ Web developer passionate about what he does
+- ❤️ Full stack developer passionate about what he does
 
 - 👨‍💻 All of my projects are available at here
 
